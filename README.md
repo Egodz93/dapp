@@ -42,4 +42,5 @@ npm run dev
 
 ## 📄 License
 
-MIT
+## Contact 
+ Email: 22010093@st.phenikaa-uni.edu.vn
