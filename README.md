@@ -1,6 +1,6 @@
-# IOTA dApp Starter
+## 🏆 Champion Guessing Game
 
-A beginner-friendly Next.js template for building IOTA dApps with Move smart contracts.
+A Decentralized Application (dApp) built on Next.js and Move Smart Contracts (for the IOTA network) that allows users to participate in a champion guessing game.
 
 ## 🚀 Quick Start
 
@@ -15,18 +15,14 @@ npm run iota-deploy
 npm run dev
 ```
 
-## 📚 Documentation
-
-For detailed instructions, see **[INSTRUCTION_GUIDE.md](./INSTRUCTION_GUIDE.md)**
-
 ## 🎯 Features
 
-- ✅ Wallet connection with IOTA dApp Kit
-- ✅ Move smart contract integration
-- ✅ TypeScript support
-- ✅ Modern UI with Radix UI
-- ✅ Automated deployment and integration
-- ✅ Error handling and loading states
+✅ Wallet connection with IOTA dApp Kit
+✅ Move smart contract integration (Core Game Logic & Rewards)
+✅ TypeScript support
+✅ Modern UI with Radix UI
+✅ Automated deployment and integration
+✅ Error handling and loading states
 
 ## 📁 Project Structure
 
